@@ -118,6 +118,13 @@ p {
 	align-items: center;
 	margin-bottom: 20px;
 }
+.module__project__title{
+	font-size: 18px;
+	text-transform: uppercase;
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+}
 .module__content li{	
 	margin-bottom: 25px;
 }
