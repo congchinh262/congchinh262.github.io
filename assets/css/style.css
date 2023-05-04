@@ -33,6 +33,11 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+li{
+	list-style: circle;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -195,6 +200,14 @@ p {
 	text-transform: uppercase;
 	margin: 0 0 10px;
 }
+
+.section__title__child {
+	font-size: 18px;
+	text-transform: uppercase;
+	margin: 0 0 15px;
+	padding-left: 60px;
+}
+
 .section__content {
 	padding-left: 90px;
 }
